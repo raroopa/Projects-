@@ -1,0 +1,19 @@
+Total # People: 5
+Total Length of Session: 55.62 min
+Total Speaking Time: 44.32 min
+Total # of Speaker Switches: 29
+
+Total Talk Time: 
+Andrew Knight: 5.96 min - 13.45%
+Paul McCartney: 37.92 min - 85.56%
+George Harrison: 0.07 min - 0.16%
+Ringo Starr: 0.03 min - 0.07%
+John Lennon: 0.33 min - 0.75%
+
+Average Length of a Speech Event:
+Andrew Knight: 0.13 min
+Paul McCartney: 0.16 min
+George Harrison: 0.02 min
+Ringo Starr: 0.03 min
+John Lennon: 0.05 min
+
